@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roievil/atelierArcadie2/static/css/main.7adc88a7.css",
+    "main.js": "/roievil/atelierArcadie2/static/js/main.52fea355.js",
+    "static/js/787.868e5fa3.chunk.js": "/roievil/atelierArcadie2/static/js/787.868e5fa3.chunk.js",
+    "index.html": "/roievil/atelierArcadie2/index.html",
+    "main.7adc88a7.css.map": "/roievil/atelierArcadie2/static/css/main.7adc88a7.css.map",
+    "main.52fea355.js.map": "/roievil/atelierArcadie2/static/js/main.52fea355.js.map",
+    "787.868e5fa3.chunk.js.map": "/roievil/atelierArcadie2/static/js/787.868e5fa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7adc88a7.css",
+    "static/js/main.52fea355.js"
+  ]
+}
