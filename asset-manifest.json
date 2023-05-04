@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/atelierArcadie2/static/css/main.7adc88a7.css",
-    "main.js": "/atelierArcadie2/static/js/main.dcba4278.js",
+    "main.css": "/atelierArcadie2/static/css/main.63f927bf.css",
+    "main.js": "/atelierArcadie2/static/js/main.9aae8f41.js",
     "static/js/787.868e5fa3.chunk.js": "/atelierArcadie2/static/js/787.868e5fa3.chunk.js",
     "index.html": "/atelierArcadie2/index.html",
-    "main.7adc88a7.css.map": "/atelierArcadie2/static/css/main.7adc88a7.css.map",
-    "main.dcba4278.js.map": "/atelierArcadie2/static/js/main.dcba4278.js.map",
+    "main.63f927bf.css.map": "/atelierArcadie2/static/css/main.63f927bf.css.map",
+    "main.9aae8f41.js.map": "/atelierArcadie2/static/js/main.9aae8f41.js.map",
     "787.868e5fa3.chunk.js.map": "/atelierArcadie2/static/js/787.868e5fa3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7adc88a7.css",
-    "static/js/main.dcba4278.js"
+    "static/css/main.63f927bf.css",
+    "static/js/main.9aae8f41.js"
   ]
 }
