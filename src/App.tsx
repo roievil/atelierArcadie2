@@ -1,12 +1,16 @@
 import React from 'react';
-import './App.css';
+import Navbar from '../src/components/Navbar';
+import Footer from '../src/components/Footer';
+import Hero from '../src/components/Hero';
+import Slider from '../src/components/Slider';
 
-function App() {
+export default function App({ Component, pageProps }: any): JSX.Element {
   return (
-    <h1 className="text-3xl font-bold underline text-red-600">
-      Simple React Typescript Tailwind Sample
-    </h1>
-  );  
+    <>
+      <Navbar />
+      <Hero heading="Atelier Arcadie" message="" />
+      <Slider />
+      <Footer />
+    </>
+  );
 }
-
-export default App;
